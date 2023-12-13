@@ -7,9 +7,8 @@
 ## Meus Projetos
 
 - 🚀 Site de locação por temporada(https://github.com/BrunoEduardo10203/Site_locacao_2.0))
-  - Descrição breve do projeto.
-//- 🌟 [Nome do Projeto 2](link para o repositório)
-  //- Descrição breve do projeto.
+  - O objetivo deste site é ser completamente funcional e atender a todos que desejam alugar um apartamento ou casa. Além disso, no futuro, ele estará disponível para pessoas que tenham seus apartamentos e queiram colocá-los para alugar!
+
 
 ## Minhas Habilidades
 

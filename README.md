@@ -6,10 +6,10 @@
 
 ## Meus Projetos
 
-- 🚀 [Nome do Projeto 1](link para o repositório)
+- 🚀 Site de locação por temporada(https://github.com/BrunoEduardo10203/Site_locacao_2.0))
   - Descrição breve do projeto.
-- 🌟 [Nome do Projeto 2](link para o repositório)
-  - Descrição breve do projeto.
+//- 🌟 [Nome do Projeto 2](link para o repositório)
+  //- Descrição breve do projeto.
 
 ## Minhas Habilidades
 

@@ -1,4 +1,4 @@
-# Olá, me chamo Bruno Eduardo👋
+# Olá, me chamo Bruno Eduardo.
 
 ## Bem vindo ao meu perfil GitHub 👋
 

@@ -8,7 +8,7 @@
 
 ## Minhas Habilidades
 
-- 💻 C#, XAML, Python, SQL, MySql, Java Script.
+- 💻 C#, XAML, Python, SQL, MySql, Java Script, HTML e CSS.
 
 
 ## Estatísticas do GitHub
